@@ -9,7 +9,7 @@
 
     **Obs: caso queira limpar o arquivo .o gerado pelo comando make all basta escrever make clear.**
 - Caso não tenha o make instalado:
-    1. Digite a seguinte linha de comando no terminal: g++ -Wall -Werror -Wextra -Ivector/ main.cpp -o main
+    1. Digite a seguinte linha de comando no terminal: g++ -Wall -Werror -Wextra -Iinclude/ main.cpp -o main
     2. Digite ./main para executar
 
 ## Como contribuir
